@@ -1,0 +1,9 @@
+MEU TREINO FITNESS 1.1
+
+Abra index.html para visualizar no computador.
+
+Para instalar no Android: publique todos os arquivos desta pasta em uma hospedagem HTTPS. Abra o endereço no Chrome do celular e escolha Instalar aplicativo ou Adicionar à tela inicial. Este pacote é um aplicativo web (PWA), não um APK.
+
+Os dados ficam no navegador do aparelho. Faça backups pela opção do aplicativo antes de limpar o navegador ou trocar de aparelho. Não há sincronização entre aparelhos.
+
+Inclui treino de quarta-feira. O peso e seu gráfico ficam na aba Peso, fora do Início. As ilustrações atuais são símbolos, não desenhos detalhados.
